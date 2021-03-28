@@ -5,6 +5,9 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/drinkler?style=for-the-badge)](https://github.com/sponsors/drinkler)
 [![Twitter Follow](https://img.shields.io/twitter/follow/floriandrinkler?style=for-the-badge)](https://twitter.com/intent/user?screen_name=floriandrinkler)
 
-[![Drinkler's GitHub stats](https://github-readme-stats.vercel.app/api?username=drinkler&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drinkler&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drinkler&count_private=true&show_icons=true&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinkler&theme=ayu-mirage&layout=compact" />
+</a>
